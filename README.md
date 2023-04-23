@@ -4,4 +4,5 @@ Sample- project
 
 Step 1:-
 
-![ss1](https://user-images.githubusercontent.com/74850322/233867075-5f5205e6-92af-409c-ad10-c66d57b874eb.png)
+
+![ss1](https://user-images.githubusercontent.com/74850322/233867149-f68149b2-e667-4c8b-a934-fbfda6e8b01f.png)
