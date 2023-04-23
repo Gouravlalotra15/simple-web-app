@@ -1,5 +1,7 @@
-Sample- project
 
+## ✨ Introduction
+
+A simple web array to understand the array and its algorithms
 # output
 
 Step 1:-
